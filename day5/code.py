@@ -42,4 +42,3 @@ for element in coordinates:
 
 np.sum(base >= 2)
 
-# eligible_coordinates = [element for element in coordinates if (element[0][0] == element[1][0]) or (element[0][1] == element[1][1])]
